@@ -1,0 +1,41 @@
+state_event_id,experiment_id,from_status,to_status,changed_at,reason
+EXPSTATE-EXP-2026-000001-001,EXP-2026-000001,draft,designed,2025-12-25T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000002-001,EXP-2026-000002,draft,designed,2026-01-24T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000003-001,EXP-2026-000003,draft,designed,2026-02-23T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000004-001,EXP-2026-000004,draft,designed,2026-03-25T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000005-001,EXP-2026-000005,draft,designed,2026-04-24T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000006-001,EXP-2026-000006,draft,designed,2026-05-24T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000007-001,EXP-2026-000007,draft,designed,2026-06-23T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000008-001,EXP-2026-000008,draft,designed,2026-07-23T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000009-001,EXP-2026-000009,draft,designed,2026-08-22T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000010-001,EXP-2026-000010,draft,designed,2026-09-21T00:00:00+00:00,Experiment design and analysis plan recorded.
+EXPSTATE-EXP-2026-000001-002,EXP-2026-000001,designed,running,2026-01-01T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000002-002,EXP-2026-000002,designed,running,2026-01-31T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000003-002,EXP-2026-000003,designed,running,2026-03-02T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000004-002,EXP-2026-000004,designed,running,2026-04-01T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000005-002,EXP-2026-000005,designed,running,2026-05-01T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000006-002,EXP-2026-000006,designed,running,2026-05-31T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000007-002,EXP-2026-000007,designed,running,2026-06-30T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000008-002,EXP-2026-000008,designed,running,2026-07-30T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000009-002,EXP-2026-000009,designed,running,2026-08-29T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000010-002,EXP-2026-000010,designed,running,2026-09-28T00:00:00+00:00,Experiment enrollment and assignment started.
+EXPSTATE-EXP-2026-000001-003,EXP-2026-000001,running,completed,2026-01-22T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000002-003,EXP-2026-000002,running,completed,2026-02-21T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000003-003,EXP-2026-000003,running,completed,2026-03-23T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000004-003,EXP-2026-000004,running,completed,2026-04-22T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000005-003,EXP-2026-000005,running,completed,2026-05-22T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000006-003,EXP-2026-000006,running,completed,2026-06-21T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000007-003,EXP-2026-000007,running,completed,2026-07-21T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000008-003,EXP-2026-000008,running,completed,2026-08-20T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000009-003,EXP-2026-000009,running,completed,2026-09-19T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000010-003,EXP-2026-000010,running,completed,2026-10-19T00:00:00+00:00,Experiment and all predeclared outcome windows completed.
+EXPSTATE-EXP-2026-000001-004,EXP-2026-000001,completed,analyzed,2026-01-22T00:00:01+00:00,Predeclared intent-to-treat analysis completed.
+EXPSTATE-EXP-2026-000002-004,EXP-2026-000002,completed,analyzed,2026-02-21T00:00:01+00:00,Predeclared intent-to-treat analysis completed.
+EXPSTATE-EXP-2026-000003-004,EXP-2026-000003,completed,analyzed,2026-03-23T00:00:01+00:00,Predeclared intent-to-treat analysis completed.
+EXPSTATE-EXP-2026-000004-004,EXP-2026-000004,completed,analyzed,2026-04-22T00:00:01+00:00,Predeclared intent-to-treat analysis completed.
+EXPSTATE-EXP-2026-000005-004,EXP-2026-000005,completed,analyzed,2026-05-22T00:00:01+00:00,Predeclared intent-to-treat analysis completed.
+EXPSTATE-EXP-2026-000006-004,EXP-2026-000006,completed,analyzed,2026-06-21T00:00:01+00:00,Predeclared intent-to-treat analysis completed.
+EXPSTATE-EXP-2026-000007-004,EXP-2026-000007,completed,analyzed,2026-07-21T00:00:01+00:00,Predeclared intent-to-treat analysis completed.
+EXPSTATE-EXP-2026-000008-004,EXP-2026-000008,completed,analyzed,2026-08-20T00:00:01+00:00,Predeclared intent-to-treat analysis completed.
+EXPSTATE-EXP-2026-000009-004,EXP-2026-000009,completed,analyzed,2026-09-19T00:00:01+00:00,Predeclared intent-to-treat analysis completed.
+EXPSTATE-EXP-2026-000010-004,EXP-2026-000010,completed,analyzed,2026-10-19T00:00:01+00:00,Predeclared intent-to-treat analysis completed.

@@ -1,0 +1,8 @@
+issue_type,entity_type,entity_id,details
+multiple_variant_assignment,Assignment,ASG-EXP-2026-000001-USR-000001,User has more than one assignment for the same experiment.
+multiple_variant_assignment,Assignment,ASG-EXP-2026-000001-USR-000001-DUP01,User has more than one assignment for the same experiment.
+exposure_before_assignment,ExposureEvent,EXPOS-2026-000002,Observed exposure time precedes assignment time.
+outcome_window_inconsistent,ConversionEvent,CONV-2026-004927,Event-declared window differs from the predeclared experiment window.
+sample_ratio_mismatch_ignored,Experiment,EXP-2026-000010,"Observed assignment counts [3250.0, 1750.0] differ from the declared allocation."
+metric_definition_changed_after_result,MetricDefinitionChangeEvent,METRICDEFCHANGE-conversion_rate-V002,"conversion_rate changed from MET-conversion_rate-V001 to MET-conversion_rate-V002 at 2026-10-20T00:00:01+00:00 after prior results; reason: After all experiment results were analyzed, conversion rate was redefined to count only assigned users with a non-refunded in-window conversion."
+guardrail_regression,ExperimentResult,RES-EXP-2026-000008-MET-revenue_per_assigned_user-V001-R001,Guardrail metric failed with estimated effect -0.7829004927586694.

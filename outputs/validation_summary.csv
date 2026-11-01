@@ -1,0 +1,11 @@
+experiment_id,eligible_n,assigned_n,control_n,treatment_n,sample_ratio_p_value,duplicate_assignment_count,assignment_integrity_valid,assignment_valid,outcome_window_days
+EXP-2026-000001,5000,5001,2500,2501,0.9887177125412847,2,False,False,7
+EXP-2026-000002,5000,5000,2500,2500,1.0,0,True,True,7
+EXP-2026-000003,5000,5000,2500,2500,1.0,0,True,True,7
+EXP-2026-000004,5000,5000,2500,2500,1.0,0,True,True,7
+EXP-2026-000005,5000,5000,2500,2500,1.0,0,True,True,7
+EXP-2026-000006,5000,5000,2500,2500,1.0,0,True,True,7
+EXP-2026-000007,5000,5000,2500,2500,1.0,0,True,True,7
+EXP-2026-000008,5000,5000,2500,2500,1.0,0,True,True,7
+EXP-2026-000009,5000,5000,2500,2500,1.0,0,True,True,7
+EXP-2026-000010,5000,5000,3250,1750,7.212994172451054e-100,0,True,False,7

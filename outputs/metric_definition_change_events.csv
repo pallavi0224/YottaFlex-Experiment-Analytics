@@ -1,0 +1,2 @@
+metric_definition_change_event_id,old_metric_definition_id,new_metric_definition_id,changed_at,reason
+METRICDEFCHANGE-conversion_rate-V002,MET-conversion_rate-V001,MET-conversion_rate-V002,2026-10-20T00:00:01+00:00,"After all experiment results were analyzed, conversion rate was redefined to count only assigned users with a non-refunded in-window conversion."
