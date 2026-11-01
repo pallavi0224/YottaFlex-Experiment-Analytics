@@ -4,6 +4,8 @@
 
 # YottaFlex.ai Experiment Analytics Platform
 
+**Live Demo:** [https://yottaflex-experiment-analytics-cxfwqjrazfjtmyzy8l9de4.streamlit.app/](https://yottaflex-experiment-analytics-cxfwqjrazfjtmyzy8l9de4.streamlit.app/)
+
 A synthetic A/B-testing and analytics platform developed for YottaFlex's 72-hour project-build exercise. It runs 10 experiments over 50,000 eligible users, validates randomized assignments, estimates treatment effects, surfaces guardrail failures, and exports traceable data. A separate Streamlit dashboard makes the generated results easy to explore.
 
 ## Features
